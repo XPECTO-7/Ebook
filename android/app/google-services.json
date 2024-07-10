@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122224904920",
+    "project_id": "saver-7",
+    "storage_bucket": "saver-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122224904920:android:1c61ccfa72fa025afb65ad",
+        "android_client_info": {
+          "package_name": "com.example.saver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Ncx5ZGAPPu_bSuPCbTUXMzmxd-GBAlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
